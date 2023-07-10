@@ -1,0 +1,16 @@
+body {
+  background-image: url("Images/BR.jpg");
+  width: auto;
+}
+
+.navbar-expand-lg {
+  background-color: blueviolet;
+}
+
+.navbar {
+  background-color: blueviolet;
+}
+
+.bg-body-tertiary {
+  background-color: blueviolet;
+}
